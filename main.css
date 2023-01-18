@@ -18,3 +18,12 @@
 	  color: #fff;
 
 }
+
+.footer {
+	background: SlateGrey;
+	padding: 30px;
+	font-size: 32px;
+	font-family: sans-serif;
+	text-align: center;
+	color: #fff;
+}
